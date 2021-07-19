@@ -7,7 +7,7 @@
 
 <br/>
 
-### Decscription
+### Description
 
 Advertising site for photographer.
 You can choose and make an application for the planned event.
